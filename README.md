@@ -6,12 +6,10 @@ It is a modern real-time chatting application developed using React.js, offering
 # Key Features
 1. Real-time Messaging: Chatify leverages the power of WebSockets to provide instant messaging capabilities, ensuring that conversations are delivered and received in real-time.
 2. User Authentication: The application incorporates a secure user authentication system, enabling users to create accounts, log in, and protect their conversations.
- <br>
-# Installation and Usage
 
+# Installation and Usage
 To run Chatify locally, follow these steps: <br>
 Clone the repository: git clone https://github.com/Mohit1108/chatting-app/
-
 
 # Technologies Used <br>
 1. React.js: The core framework used to build the frontend components and manage the application state.
