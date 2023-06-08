@@ -18,6 +18,5 @@ Clone the repository: git clone https://github.com/Mohit1108/chatting-app/
 2. Firebase: A cloud-based platform that provides backend infrastructure, including user authentication and real-time database functionality.
 3. CSS Modules: A CSS file organization system that allows for better encapsulation and modularity in styling components.
 
- <br>
-# Contact <br>
+# Contact
 If you have any questions, suggestions, or feedback, feel free to reach out to us at mohitgoyal1108@gmail.com
