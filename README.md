@@ -4,8 +4,8 @@ Live URL - https://chatting-mohit.netlify.app/ <br>
 It is a modern real-time chatting application developed using React.js, offering users a seamless communication experience. This application allows users to connect with friends, or colleagues through instant messaging in a visually appealing and user-friendly interface.  <br>
 
 # Key Features
-1. Real-time Messaging: Chatify leverages the power of WebSockets to provide instant messaging capabilities, ensuring that conversations are delivered and received in real-time.
-2. User Authentication: The application incorporates a secure user authentication system, enabling users to create accounts, log in, and protect their conversations.
+1. Real-time Messaging:
+2. User Authentication:
 
 # Installation and Usage
 To run Chatify locally, follow these steps: <br>
